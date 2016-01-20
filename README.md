@@ -11,6 +11,6 @@ Helpful resources I used :
 
 [Jasime](https://jasmine.github.io/2.1/introduction.html)
 
-[YouTube](https://www.youtube.com)
-
 [tutsplus](http://code.tutsplus.com/tutorials/testing-your-javascript-with-jasmine--net-21229)
+
+[YouTube](https://www.youtube.com)
